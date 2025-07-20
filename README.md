@@ -21,9 +21,9 @@ Pasos a seguir:
 
 <pre>sudo apt update && sudo apt upgrade -y</pre>
 
-2) primero instalar zsh
+2) primero instalar zsh y los complementos
 
-<pre>sudo apt install zsh</pre>
+<pre>sudo apt install zsh bat lsd</pre>
 
 4) despues configurarla como predeterminada (puedes hacerlo desde terminal como por configuraciones de terminal)
 por comando 
