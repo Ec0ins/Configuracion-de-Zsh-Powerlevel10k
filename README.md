@@ -90,8 +90,8 @@ B) git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUST
 
 ya esta listo
 
-9) copiamos los archivos en sus directorios de la p10k.zsh (recuerda antes que se pongan en los directorios correspondientes de cada usuario cambia p10k.zsh_root a p10k.zsh en el directorio de root, igual con los usuarios
-cambia p10k.zsh_usuario a p10k.zsh en el diretorio del usuario)
+9) copiamos los archivos en sus directorios de la .p10k.zsh (recuerda antes que se pongan en los directorios correspondientes de cada usuario cambia p10k.zsh_root a .p10k.zsh en el directorio de root, igual con los usuarios
+cambia p10k.zsh_usuario a .p10k.zsh en el diretorio del usuario)
 
 10) copiamos los archivos en sus directorios de la .zshrc (recuerda antes que se pongan en los directorios correspondientes de cada usuario cambia zshrc_root a .zshrc en el directorio de root, igual con los usuarios
 cambia zshrc_usuario a .zshrc en el diretorio del usuario)
