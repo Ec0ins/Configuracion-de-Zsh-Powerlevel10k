@@ -108,3 +108,5 @@ Usuario Root!!!
 
 Espero te guste 
 
+<pre> ```bash $ python herramienta.py -i archivo.txt -o salida.txt Procesando archivo.txt... Salida guardada en salida.txt ``` </pre>
+
