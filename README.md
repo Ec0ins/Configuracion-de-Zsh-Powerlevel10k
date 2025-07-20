@@ -1,4 +1,4 @@
-# Configuarion de zsh + powelevel10k 
+# Configuarion de Zsh + Powelevel10k 
 Mi Configurancion de zsh (ohmyzsh)
 
 la instalacion esta con powerlevel10k con los MesloLGS NF (Nerd Fronts) para la configuracion 
