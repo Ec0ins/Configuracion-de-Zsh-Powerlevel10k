@@ -36,11 +36,11 @@ luego en la terminal puedes configuralos con los siguientes comandos
 
 primero crea una carpeta en tu usuario local (no importa si haces otra en root, esta misma se comparte con todos los usuarios)
 
-A) "mkdir -p ~/.local/share/fonts"
+<pre>"mkdir -p ~/.local/share/fonts"</pre>
 
 accedemos a ella
 
-B) "cd ~/.local/share/fonts"
+<pre>"cd ~/.local/share/fonts"</pre>
 
 nos copiamos los archivos en esta carpeta
 
