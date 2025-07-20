@@ -1,5 +1,5 @@
-# Configuracion-de-zsh-en-linux-mint
-Mi Configurancion de zsh (ohmyzsh) en linux mint
+# Configuarion de zsh + powelevel10k 
+Mi Configurancion de zsh (ohmyzsh)
 
 la instalacion esta con powerlevel10k con los MesloLGS NF (Nerd Fronts) para la configuracion 
 
