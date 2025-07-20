@@ -100,5 +100,11 @@ cambia zshrc_usuario a .zshrc en el diretorio del usuario)
 
 Listo ya esta tu entorno de terminal en linux mint
 
+![usuario](images/usuario.png)
+
+Usuario Root!!!
+
+![root](images/root.png)
+
 Espero te guste 
 
