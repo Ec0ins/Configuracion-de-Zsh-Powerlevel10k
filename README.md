@@ -78,13 +78,25 @@ OPCIONAL = si te pide configurar como predeterminado configuralo o no segun tus 
 
 7) instalar powerlevel10k = "git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k"" OJO has control + c para canselar el proceso ya que utilizaremos son archivos de configuracion
 
-8) copiamos los archivos en sus directorios de la p10k.zsh (recuerda antes que se pongan en los directorios correspondientes de cada usuario cambia p10k.zsh_root a p10k.zsh en el directorio de root, igual con los usuarios
+8) instalar plugins (sudo, git, zsh-autosuggestions, zsh-syntax-highlighting) 
+
+instalamos zsh-autosuggestions
+
+A) git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+instalamos zsh-syntax-highlighting
+
+B) git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+ya esta listo
+
+9) copiamos los archivos en sus directorios de la p10k.zsh (recuerda antes que se pongan en los directorios correspondientes de cada usuario cambia p10k.zsh_root a p10k.zsh en el directorio de root, igual con los usuarios
 cambia p10k.zsh_usuario a p10k.zsh en el diretorio del usuario)
 
-9) copiamos los archivos en sus directorios de la .zshrc (recuerda antes que se pongan en los directorios correspondientes de cada usuario cambia zshrc_root a .zshrc en el directorio de root, igual con los usuarios
+10) copiamos los archivos en sus directorios de la .zshrc (recuerda antes que se pongan en los directorios correspondientes de cada usuario cambia zshrc_root a .zshrc en el directorio de root, igual con los usuarios
 cambia zshrc_usuario a .zshrc en el diretorio del usuario)
 
-10) OPCIONAL cambiar el fondo de la terminal yo recomiendo el tema en preferencias en colores dentro de el apartado de temas usar el estilo "GNOME oscuro"
+11) OPCIONAL cambiar el fondo de la terminal yo recomiendo el tema en preferencias en colores dentro de el apartado de temas usar el estilo "GNOME oscuro"
 
 Listo ya esta tu entorno de terminal en linux mint
 
