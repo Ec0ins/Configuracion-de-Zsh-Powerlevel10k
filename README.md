@@ -107,6 +107,3 @@ Usuario Root!!!
 ![root](imagenes/root.png)
 
 Espero te guste 
-
-<code> ```bash $ python herramienta.py -i archivo.txt -o salida.txt Procesando archivo.txt... Salida guardada en salida.txt ``` </code>
-
